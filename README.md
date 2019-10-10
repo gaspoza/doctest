@@ -38,3 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Test link
 Link to page 2: [Page2](page2.md)
+
+Link to page 3: [Page3](folder/page3.md)
